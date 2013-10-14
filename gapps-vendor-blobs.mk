@@ -19,7 +19,6 @@ PRODUCT_PACKAGES += \
     Wallpapers \
     Music \
     Stk \
-    romstats \
     Lightning
 
 # GApps
